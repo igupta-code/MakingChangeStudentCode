@@ -9,4 +9,4 @@ Name: Isha Gupta
 | Feb 3  | 9:45-10:20  |                                                                                                                           Printed out table values and found one bug: I was changing the 0 column representing the fact that we've successfully made the number (so I was over-counting). But I'm still missing something. |
 
 
-To add a new row to the table, click into a cell and then hit shift-enter.
+To add a new row to the table, click into a cell and then hit shift-enter. 
