@@ -7,6 +7,7 @@ Name: Isha Gupta
 | Jan 29 | 10:15-10:45 | I talked to a couple people who were in class to see what they were thinking/talking about, which was kind of similar to what I was thinking. They also brought up the idea of making the problem smaller both in terms of the number of coins and the value of the coins -- i'm not sure how to do both at the same time. |
 | Feb 2  |  4:30-5:15  |                                                                                                                                                              I went over the slides a bit and decided to use tabulation bc that approach made the most sense to me. I started coding a bit: set up my variables and loops. |
 | Feb 3  | 9:45-10:20  |                                                                                                                           Printed out table values and found one bug: I was changing the 0 column representing the fact that we've successfully made the number (so I was over-counting). But I'm still missing something. |
+| Feb 4  |    class    |                                                                                                                 The last bug I had was that I had length target instead of target + 1 for my array size. So I was basically finding the number of ways to create target - 1. I also cleaned up my code and added comments. |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter. 
