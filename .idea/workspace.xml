@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf08351e-8001-407c-880c-49b47a0a4156" name="Changes" comment="First">
+    <list default="true" id="bf08351e-8001-407c-880c-49b47a0a4156" name="Changes" comment="Final :D">
+      <change afterPath="$PROJECT_DIR$/src/MakingChangeMem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MakingChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MakingChange.java" afterDir="false" />
     </list>
@@ -53,6 +54,9 @@
     "JUnit.MakingChangeTest.testCorrectLarge.executor": "Run",
     "JUnit.MakingChangeTest.testCorrectLargest.executor": "Run",
     "JUnit.MakingChangeTest.testCorrectSmall.executor": "Run",
+    "JUnit.MakingChangeTest.testEfficient.executor": "Run",
+    "JUnit.MakingChangeTest.testEfficientLarge.executor": "Run",
+    "JUnit.MakingChangeTest.testEfficientLargest.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -71,11 +75,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakingChangeTest.testCorrectLargest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MakingChangeTest.testCorrectSmall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Making Change Student Code" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MakingChangeTest" />
-      <option name="METHOD_NAME" value="testCorrectLargest" />
+      <option name="METHOD_NAME" value="testCorrectSmall" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,10 +118,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MakingChangeTest" />
+        <item itemvalue="JUnit.MakingChangeTest.testCorrectSmall" />
         <item itemvalue="JUnit.MakingChangeTest.testEfficientLargest" />
         <item itemvalue="JUnit.MakingChangeTest.testEfficientLarge" />
         <item itemvalue="JUnit.MakingChangeTest.testEfficient" />
-        <item itemvalue="JUnit.MakingChangeTest.testCorrectLargest" />
       </list>
     </recent_temporary>
   </component>
@@ -162,12 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1738606919185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Final :D">
+      <option name="closed" value="true" />
+      <created>1738704545829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738704545829</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="Final :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final :D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
